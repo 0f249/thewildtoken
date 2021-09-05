@@ -1,0 +1,25 @@
+{
+  "token": {
+    "name": "Wildlife",
+    "nameShort": "Wildlife token",
+    "nameLong": "The wildlife token",
+    "symbol": "$WILD"
+  },
+
+  "email-address": "admin@thewildtoken",
+
+  "formspree": {
+    "contact-form": "https://formspree.io/f/mayaljoe",
+    "air-drop": "https://formspree.io/f/xbjqpypv"
+  },
+
+  "logo": {
+    "32": "https://statics.thewildtoken.com/images/logo/logo-32.png",
+    "256": "https://statics.thewildtoken.com/images/logo/logo-256.png"
+  },
+
+  "urls": {
+    "bscscan": "https://bscscan.com/token/0x414d1a07b9b29f1f7d8cd4fd68dde552be5002dd",
+    "whitepaper": "https://statics.thewildtoken.com/whitepapers/wild-token-whitepaper-v1.20210807.pdf"
+  }
+}
